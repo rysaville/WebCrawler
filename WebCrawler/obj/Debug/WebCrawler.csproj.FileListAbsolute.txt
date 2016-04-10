@@ -1,1 +1,10 @@
 C:\Toosl\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Tools\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Tools\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Tools\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.Cache
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Tools\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
